@@ -31,7 +31,7 @@ function App() {
             target="_blank"
             rel="noreferrer"
           >
-            resume
+            resume de mi
           </a>
         </div>
       </div>
